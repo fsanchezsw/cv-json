@@ -1,0 +1,408 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Francisco",
+      "surnames": "Sánchez Rueda",
+      "title": "Software engineer learning about software project management",
+      "description": "Software engineer focused on web engineering with continuous integration (especially on the front-end side), but also always attracted by object-oriented programming and its patterns. Perfectionist, organized, structured and lover of good code. Always willing to learn new knowledge of all kinds. Great co-worker, always prioritizing the collective result over the individual, carrying out standards, tasks planning and division in smaller assignments to always reach the goal.",
+      "avatar": {
+        "alt": "IMG_20220319_123843_473.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/568919fd-a5eb-4248-9a19-148353e08e98_img_20220319_123843_.jpg"
+      },
+      "location": {
+        "notes": "Madrid, Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/fsanchez14"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/fsanchezsw"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Accelya Group",
+          "image": {
+            "alt": "1630422221667.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/cea36504-f369-42c2-9395-edd97d4972fd_1630422221667.jpg"
+          },
+          "URL": "https://w3.accelya.com/"
+        },
+        "roles": [
+          {
+            "name": "Engineer - Software Development",
+            "startDate": "2020-04-01",
+            "challenges": [
+              {
+                "description": "Development of front-end software (Angular 7+) for data management for the International Air Transport Association (IATA), including testing (Karma / Jasmine) with continuous integration, application of agile methodologies (scrumban) and multidisciplinary teamwork."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Karma",
+                "type": "technology"
+              },
+              {
+                "name": "Jasmine",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sombradoble",
+          "image": {
+            "alt": "1519875553164.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/686fd014-0382-4c2f-ac16-b85149b99dab_1519875553164.jpg"
+          },
+          "URL": "https://www.sombradoble.es/en/home/"
+        },
+        "roles": [
+          {
+            "name": "Technical Leader",
+            "startDate": "2019-05-01",
+            "finishDate": "2020-04-01",
+            "challenges": [
+              {
+                "description": "Technical lead taking responsibility for customer contact, software requirements specification, task planning, agile methodology management and system data modelling and design; therefore having some involvement with the business model of some of the systems and customers worked with. To manage Linux production systems and servers in order to take responsibility for the deployment of the implemented software and the management of remote system processes."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sombradoble",
+          "image": {
+            "alt": "1519875553164.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/b7fe1ad0-c4ab-4787-bc8f-594debfddb29_1519875553164.jpg"
+          },
+          "URL": "https://www.sombradoble.es/en/home/"
+        },
+        "roles": [
+          {
+            "name": "Full-Stack developer",
+            "startDate": "2018-02-01",
+            "finishDate": "2020-04-01",
+            "challenges": [
+              {
+                "description": "Full-stack developer in several projects using up to Angular 9, SCSS, HTML, Ionic and Angular Material among many more client-side technologies and Loopback, NodeJS and MySql on the server-side. Taking part in unit and integration testing, client-side requirements specification and data modelling and design."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webpack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jasmine",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Karma",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": " RxJS In Angular: Reactive Development",
+        "startDate": "2020-03-01",
+        "finishDate": "2020-03-01",
+        "institution": {
+          "name": "Pluralsight",
+          "description": "",
+          "URL": "https://www.pluralsight.com/",
+          "image": {
+            "alt": "1280px-Pluralsight_Logo.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/38423957-2d47-4f08-b560-da7927d044f1_1280px-pluralsight_l.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Angular Routing",
+        "startDate": "2020-03-01",
+        "finishDate": "2020-03-01",
+        "institution": {
+          "name": "Pluralsight",
+          "description": "",
+          "URL": "https://www.pluralsight.com/",
+          "image": {
+            "alt": "1280px-Pluralsight_Logo.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/5ca8d19d-48bc-4291-9015-23563c7588a9_1280px-pluralsight_l.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Angular Reactive Forms",
+        "startDate": "2020-03-01",
+        "finishDate": "2020-03-01",
+        "institution": {
+          "name": "Pluralsight",
+          "description": "",
+          "URL": "https://www.pluralsight.com/",
+          "image": {
+            "alt": "1280px-Pluralsight_Logo.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/891662ec-2afe-4469-9091-35eb7afc4577_1280px-pluralsight_l.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Master's degree, Software Project Management",
+        "startDate": "2021-10-01",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid",
+          "description": "- Cost and Time Management of a Software Project\n- Quality and Risk Management of a Software Project\n- HR Management and Team Management\n- User Experience Management (Software Usability)\n- Project Management and Development with Agile Methods",
+          "URL": "https://www.upm.es/",
+          "image": {
+            "alt": "1519940485263.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/5f24e711-7199-479f-8005-b4c379af52a8_1519940485263.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Engineer's degree, Computer Software Engineering",
+        "startDate": "2014-10-01",
+        "finishDate": "2019-12-01",
+        "institution": {
+          "name": "Universidad de Málaga",
+          "description": "General knowledge:\n- Mathematical knowledge applied to computer science (series, calculus, algebra, discrete mathematics, automata theory, etc.).\n- Fundamentals of programming (mainly object-oriented), general concepts, analysis and design of algorithms, data structures and functional programming.\nProfessional knowledge:\n- Web engineering, requirements analysis and specification, data design and modelling, software maintenance and testing, data or information management as well as database management.\n- Software security, networks and distributed systems (more specifically wireless networks).",
+          "URL": "https://www.uma.es/",
+          "image": {
+            "alt": "1646996711291.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/7c77bfbc-904f-42f6-9605-8de313a05e1d_1646996711291.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/fsanchez14"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "Haskell",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
