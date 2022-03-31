@@ -27,6 +27,24 @@
         "type": "github",
         "URL": "https://github.com/fsanchezsw"
       }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Percussionist as a hobby",
+        "fact": "I have been a percussionist in a music orchestra since I was 10 years old."
+      },
+      {
+        "topic": "Nature and hiking lover",
+        "fact": "I usually participate in 2 or 3 mountain trail running races per year."
+      },
+      {
+        "topic": "Favorite videogames",
+        "fact": "* Hollow Knight\n* Dark Souls\n* Shadow of the Colossus"
+      },
+      {
+        "topic": "Favorite Progressive Rock albums",
+        "fact": "* Wish You Were Here\n* Led Zeppelin IV\n* Crime Of The Century\n* Fear Of A Blank Planet\n* Nothing But The Truth\n* Fear Inoculum\n* Tellurian"
+      }
     ]
   },
   "experience": {
