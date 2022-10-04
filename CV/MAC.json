@@ -15,40 +15,93 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/568919fd-a5eb-4248-9a19-148353e08e98_img_20220319_123843_.jpg"
       },
       "location": {
-        "notes": "Madrid, Spain"
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/fsanchez14"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/fsanchezsw"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/fsanchez14"
       }
     ],
     "interestingFacts": [
       {
-        "topic": "Percussionist as a hobby",
-        "fact": "I have been a percussionist in a music orchestra since I was 10 years old."
-      },
-      {
-        "topic": "Nature and hiking lover",
-        "fact": "I also usually participate in 2 or 3 mountain trail running races per year."
+        "topic": "Love reading fantasy books",
+        "fact": "* Favorite book: The Name Of The Wind\n* Favorite saga: Hyperion Cantos"
       },
       {
         "topic": "Favorite Progressive Rock albums",
         "fact": "* Wish You Were Here\n* Led Zeppelin IV\n* Crime Of The Century\n* Fear Of A Blank Planet\n* Nothing But The Truth\n* Fear Inoculum\n* Tellurian"
       },
       {
-        "topic": "Love reading fantasy books",
-        "fact": "* Favorite book: The Name Of The Wind\n* Favorite saga: Hyperion Cantos"
+        "topic": "Nature and hiking lover",
+        "fact": "I also usually participate in 2 or 3 mountain trail running races per year."
+      },
+      {
+        "topic": "Percussionist as a hobby",
+        "fact": "I have been a percussionist in a music orchestra since I was 10 years old."
       }
     ]
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "InnoIT Consulting",
+          "image": {
+            "alt": "unnamed.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/04/ab7967b9-1c30-4d85-91af-1c8941d467f1_unnamed.jpg"
+          },
+          "URL": "https://www.inno-it.es/"
+        },
+        "roles": [
+          {
+            "name": "Senior Application Developer",
+            "startDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "Development of an application designed to manage global payroll for any size of multi-country business around the world.\n\nUsing web components with StencilJS in an Angular core (with unit, integration and e2e testing) and within a continuous integration environment applying Agile methodologies."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Stencil.js",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Accelya Group",
@@ -69,27 +122,7 @@
             ],
             "competences": [
               {
-                "name": "Redux",
-                "type": "technology"
-              },
-              {
-                "name": "Webpack",
-                "type": "technology"
-              },
-              {
                 "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Karma",
-                "type": "technology"
-              },
-              {
-                "name": "Jasmine",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
                 "type": "technology"
               },
               {
@@ -97,7 +130,27 @@
                 "type": "technology"
               },
               {
+                "name": "Jasmine",
+                "type": "technology"
+              },
+              {
                 "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Karma",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
                 "type": "technology"
               }
             ]
@@ -129,15 +182,7 @@
                 "type": "technology"
               },
               {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
+                "name": "Bitbucket",
                 "type": "technology"
               },
               {
@@ -145,11 +190,19 @@
                 "type": "technology"
               },
               {
-                "name": "Bitbucket",
+                "name": "Git",
                 "type": "technology"
               },
               {
-                "name": "Git",
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
             ]
@@ -181,15 +234,7 @@
                 "type": "technology"
               },
               {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
+                "name": "Bitbucket",
                 "type": "technology"
               },
               {
@@ -197,11 +242,19 @@
                 "type": "technology"
               },
               {
-                "name": "Bitbucket",
+                "name": "Git",
                 "type": "technology"
               },
               {
-                "name": "Git",
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
             ]
@@ -213,13 +266,43 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "English"
       },
       {
-        "name": "English"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Karma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "JAVA",
@@ -240,31 +323,7 @@
       },
       {
         "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Webpack",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redux",
+          "name": "Jasmine",
           "type": "technology"
         }
       },
@@ -282,18 +341,27 @@
       },
       {
         "skill": {
-          "name": "Jasmine",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Karma",
+          "name": "Webpack",
           "type": "technology"
         }
       }
     ],
     "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Master's degree, Software Project Management",
+        "startDate": "2021-10-01",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid",
+          "description": "- Cost and Time Management of a Software Project\n- Quality and Risk Management of a Software Project\n- HR Management and Team Management\n- User Experience Management (Software Usability)\n- Project Management and Development with Agile Methods",
+          "URL": "https://www.upm.es/",
+          "image": {
+            "alt": "1519940485263.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/5f24e711-7199-479f-8005-b4c379af52a8_1519940485263.jpg"
+          }
+        }
+      },
       {
         "studyType": "certification",
         "degreeAchieved": true,
@@ -302,7 +370,6 @@
         "finishDate": "2020-03-01",
         "institution": {
           "name": "Pluralsight",
-          "description": "",
           "URL": "https://www.pluralsight.com/",
           "image": {
             "alt": "1280px-Pluralsight_Logo.svg.png",
@@ -324,7 +391,6 @@
         "finishDate": "2020-03-01",
         "institution": {
           "name": "Pluralsight",
-          "description": "",
           "URL": "https://www.pluralsight.com/",
           "image": {
             "alt": "1280px-Pluralsight_Logo.svg.png",
@@ -346,7 +412,6 @@
         "finishDate": "2020-03-01",
         "institution": {
           "name": "Pluralsight",
-          "description": "",
           "URL": "https://www.pluralsight.com/",
           "image": {
             "alt": "1280px-Pluralsight_Logo.svg.png",
@@ -359,21 +424,6 @@
             "type": "technology"
           }
         ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Master's degree, Software Project Management",
-        "startDate": "2021-10-01",
-        "institution": {
-          "name": "Universidad Politécnica de Madrid",
-          "description": "- Cost and Time Management of a Software Project\n- Quality and Risk Management of a Software Project\n- HR Management and Team Management\n- User Experience Management (Software Usability)\n- Project Management and Development with Agile Methods",
-          "URL": "https://www.upm.es/",
-          "image": {
-            "alt": "1519940485263.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/5f24e711-7199-479f-8005-b4c379af52a8_1519940485263.jpg"
-          }
-        }
       },
       {
         "studyType": "officialDegree",
@@ -405,10 +455,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "TypeScript",
-          "type": "technology"
-        },
-        {
           "name": "Angular2+",
           "type": "technology"
         },
@@ -419,7 +465,17 @@
         {
           "name": "Kotlin",
           "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Tech Lead"
       ]
     }
   }
