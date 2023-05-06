@@ -53,7 +53,8 @@
     "jobs": [
       {
         "organization": {
-          "name": "InnoIT Consulting"
+          "name": "InnoIT Consulting",
+          "URL": "https://www.inno-it.es/"
         },
         "roles": [
           {
