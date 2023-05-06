@@ -86,6 +86,18 @@
         ]
       },
       {
+        "title": "Refactoring: Improving the Design of Existing Code",
+        "type": "reading",
+        "URL": "https://martinfowler.com/books/refactoring.html",
+        "authors": [
+          {
+            "name": "Martin",
+            "surnames": "Fowler",
+            "title": "Author"
+          }
+        ]
+      },
+      {
         "title": "The Clean Coder: A Code of Conduct for Professional Programmers",
         "type": "reading",
         "URL": "https://www.amazon.es/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073",
