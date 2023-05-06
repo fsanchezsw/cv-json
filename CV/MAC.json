@@ -72,6 +72,18 @@
             "title": "Author"
           }
         ]
+      },
+      {
+        "title": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
+        "type": "reading",
+        "URL": "https://www.amazon.es/Dont-Make-Me-Think-Usability/dp/0321344758",
+        "authors": [
+          {
+            "name": "Steve",
+            "surnames": "Krug",
+            "title": "Author"
+          }
+        ]
       }
     ]
   },
