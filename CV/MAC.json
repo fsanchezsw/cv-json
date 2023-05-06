@@ -84,6 +84,18 @@
             "title": "Author"
           }
         ]
+      },
+      {
+        "title": "The Pragmatic Programmer: Your journey to mastery",
+        "type": "reading",
+        "URL": "https://www.amazon.es/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/ref=dp_ob_title_bk",
+        "authors": [
+          {
+            "name": "David",
+            "surnames": "Thomas, Andrew Hunt",
+            "title": "Author"
+          }
+        ]
       }
     ]
   },
