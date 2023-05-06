@@ -47,6 +47,20 @@
         "topic": "Percussionist as a hobby",
         "fact": "I have been a percussionist in a music orchestra since I was 10 years old."
       }
+    ],
+    "recommendations": [
+      {
+        "title": "Clean Code",
+        "type": "reading",
+        "URL": "https://www.amazon.es/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+        "authors": [
+          {
+            "name": "Robert C.",
+            "surnames": "Martin",
+            "title": "Author"
+          }
+        ]
+      }
     ]
   },
   "experience": {
