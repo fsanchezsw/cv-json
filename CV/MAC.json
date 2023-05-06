@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -60,8 +59,7 @@
             "surnames": "Martin",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
@@ -73,8 +71,7 @@
             "surnames": "Martin",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
@@ -86,8 +83,7 @@
             "surnames": "Krug",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "Refactoring: Improving the Design of Existing Code",
@@ -99,8 +95,7 @@
             "surnames": "Fowler",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "The Clean Coder: A Code of Conduct for Professional Programmers",
@@ -112,8 +107,7 @@
             "surnames": "Martin",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "The Pragmatic Programmer: Your journey to mastery",
@@ -125,8 +119,7 @@
             "surnames": "Thomas, Andrew Hunt",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       }
     ]
   },
@@ -147,7 +140,7 @@
             "startDate": "2022-11-01",
             "challenges": [
               {
-                "description": "I was promoted at the client I work for, taking leadership responsibilities in a group of 6 front-end developers, handling the agile management of user stories (from UX to QA) and other agiles practices, and also being part of the client's technical leadership group for a major product branch in the company as FE tech lead.\nDuring all this time I have developed and helped numerous teams in our product branch to deploy FE applications (specifically microfrontends with web components using Angular13+, Stencil & Storybook) with Docker and Kubernetes in different environments; integrate testing (unit & e2e), accessibility tools (AXE dev tools), code analyzers (SonarQube, linters, . ...) in CI/CD using Jenkins; reviewing code in Bitbucket; monitoring applications with Splunk, and how to lead development groups in an agile environment while solving technical problems at any point in the DevOps cycle."
+                "description": "I was promoted at the client I work for, taking leadership responsibilities in a group of 6 front-end developers, handling the agile management of user stories (from UX to QA) and other agiles practices, and also being part of the client's technical leadership group for a major product branch in the company as FE tech lead.\n\nDuring all this time I have developed and helped numerous teams in our product branch to deploy FE applications (specifically microfrontends with web components using Angular13+, Stencil & Storybook) with Docker and Kubernetes in different environments; integrate testing (unit & e2e), accessibility tools (AXE dev tools), code analyzers (SonarQube, linters, . ...) in CI/CD using Jenkins; reviewing code in Bitbucket; monitoring applications with Splunk; be responsible for interviewing developer candidates for the entire product branch in the FE part, and leading development groups in an agile environment while solving technical problems at any point in the DevOps cycle."
               }
             ],
             "competences": [
@@ -460,7 +453,6 @@
       {
         "details": {
           "name": "iWin Role Model",
-          "description": "",
           "image": {
             "alt": "DOC-20230308-WA0009.-1.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/06/3015a7d5-4f7a-4eda-bbd6-4d40e0406b45_doc-20230308-wa0009.png"
@@ -477,12 +469,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -661,7 +651,6 @@
         "finishDate": "2020-03-01",
         "institution": {
           "name": "Pluralsight",
-          "description": "",
           "URL": "https://www.pluralsight.com/",
           "image": {
             "alt": "1280px-Pluralsight_Logo.svg.png",
@@ -683,7 +672,6 @@
         "finishDate": "2020-03-01",
         "institution": {
           "name": "Pluralsight",
-          "description": "",
           "URL": "https://www.pluralsight.com/",
           "image": {
             "alt": "1280px-Pluralsight_Logo.svg.png",
@@ -705,7 +693,6 @@
         "finishDate": "2020-03-01",
         "institution": {
           "name": "Pluralsight",
-          "description": "",
           "URL": "https://www.pluralsight.com/",
           "image": {
             "alt": "1280px-Pluralsight_Logo.svg.png",
@@ -774,31 +761,6 @@
         "Full-stack Developer",
         "Tech Lead"
       ]
-    },
-    "status": "openToOffers"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": "Jenkins",
-        "type": "technology"
-      },
-      {
-        "name": "Stencil.js",
-        "type": "technology"
-      },
-      {
-        "name": "TypeScript",
-        "type": "technology"
-      },
-      {
-        "name": "Angular2+",
-        "type": "technology"
-      },
-      {
-        "name": "Kubernetes",
-        "type": "technology"
-      }
-    ]
+    }
   }
 }
