@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -54,11 +53,61 @@
     "jobs": [
       {
         "organization": {
+          "name": "InnoIT Consulting"
+        },
+        "roles": [
+          {
+            "name": "Lead Application Developer",
+            "startDate": "2022-11-01",
+            "challenges": [
+              {
+                "description": "Development of an application designed to manage global payroll for any size of multi-country business around the world.\n\nUsing web components with StencilJS in an Angular core (with unit, integration and e2e testing) and within a continuous integration environment applying Agile methodologies."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Jasmine",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Karma",
+                "type": "technology"
+              },
+              {
+                "name": "Stencil.js",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "InnoIT Consulting",
-          "image": {
-            "alt": "unnamed.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/04/ab7967b9-1c30-4d85-91af-1c8941d467f1_unnamed.jpg"
-          },
           "URL": "https://www.inno-it.es/"
         },
         "roles": [
@@ -267,12 +316,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -451,7 +498,6 @@
         "finishDate": "2020-03-01",
         "institution": {
           "name": "Pluralsight",
-          "description": "",
           "URL": "https://www.pluralsight.com/",
           "image": {
             "alt": "1280px-Pluralsight_Logo.svg.png",
@@ -473,7 +519,6 @@
         "finishDate": "2020-03-01",
         "institution": {
           "name": "Pluralsight",
-          "description": "",
           "URL": "https://www.pluralsight.com/",
           "image": {
             "alt": "1280px-Pluralsight_Logo.svg.png",
@@ -495,7 +540,6 @@
         "finishDate": "2020-03-01",
         "institution": {
           "name": "Pluralsight",
-          "description": "",
           "URL": "https://www.pluralsight.com/",
           "image": {
             "alt": "1280px-Pluralsight_Logo.svg.png",
@@ -560,31 +604,6 @@
         "Full-stack Developer",
         "Tech Lead"
       ]
-    },
-    "status": "searchingActively"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": "JavaScript",
-        "type": "technology"
-      },
-      {
-        "name": "Jenkins",
-        "type": "technology"
-      },
-      {
-        "name": "Docker",
-        "type": "technology"
-      },
-      {
-        "name": "Angular2+",
-        "type": "technology"
-      },
-      {
-        "name": "Stencil.js",
-        "type": "technology"
-      }
-    ]
+    }
   }
 }
