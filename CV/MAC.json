@@ -112,61 +112,6 @@
       },
       {
         "organization": {
-          "name": "Accelya Group",
-          "image": {
-            "alt": "1630422221667.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/cea36504-f369-42c2-9395-edd97d4972fd_1630422221667.jpg"
-          },
-          "URL": "https://w3.accelya.com/"
-        },
-        "roles": [
-          {
-            "name": "Engineer - Software Development",
-            "startDate": "2020-04-01",
-            "challenges": [
-              {
-                "description": "Development of front-end software (Angular 7+) for data management for the International Air Transport Association (IATA), including testing (Karma / Jasmine) with continuous integration, application of agile methodologies (scrumban) and multidisciplinary teamwork."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Jasmine",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Karma",
-                "type": "technology"
-              },
-              {
-                "name": "Redux",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Webpack",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "InnoIT Consulting",
           "image": {
             "alt": "600_492871809.jpeg",
@@ -231,6 +176,62 @@
               },
               {
                 "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Accelya Group",
+          "image": {
+            "alt": "1630422221667.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/cea36504-f369-42c2-9395-edd97d4972fd_1630422221667.jpg"
+          },
+          "URL": "https://w3.accelya.com/"
+        },
+        "roles": [
+          {
+            "name": "Engineer - Software Development",
+            "startDate": "2020-04-01",
+            "finishDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "Development of front-end software (Angular 7+) for data management for the International Air Transport Association (IATA), including testing (Karma / Jasmine) with continuous integration, application of agile methodologies (scrumban) and multidisciplinary teamwork."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Jasmine",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Karma",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
                 "type": "technology"
               }
             ]
