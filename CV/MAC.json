@@ -50,6 +50,18 @@
     ],
     "recommendations": [
       {
+        "title": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
+        "type": "reading",
+        "URL": "https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164",
+        "authors": [
+          {
+            "name": "Robert C.",
+            "surnames": "Martin",
+            "title": "Author"
+          }
+        ]
+      },
+      {
         "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
         "type": "reading",
         "URL": "https://www.amazon.es/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
