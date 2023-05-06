@@ -66,7 +66,7 @@
             "startDate": "2022-11-01",
             "challenges": [
               {
-                "description": "Development of an application designed to manage global payroll for any size of multi-country business around the world.\n\nUsing web components with StencilJS in an Angular core (with unit, integration and e2e testing) and within a continuous integration environment applying Agile methodologies."
+                "description": "I was promoted at the client I work for, taking leadership responsibilities in a group of 6 front-end developers, handling the agile management of user stories (from UX to QA) and other agiles practices, and also being part of the client's technical leadership group for a major product branch in the company as FE tech lead.\nDuring all this time I have developed and helped numerous teams in our product branch to deploy FE applications (specifically microfrontends with web components using Angular13+, Stencil & Storybook) with Docker and Kubernetes in different environments; integrate testing (unit & e2e), accessibility tools (AXE dev tools), code analyzers (SonarQube, linters, . ...) in CI/CD using Jenkins; reviewing code in Bitbucket; monitoring applications with Splunk, and how to lead development groups in an agile environment while solving technical problems at any point in the DevOps cycle."
               }
             ],
             "competences": [
@@ -75,7 +75,15 @@
                 "type": "technology"
               },
               {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
                 "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
                 "type": "technology"
               },
               {
@@ -91,6 +99,10 @@
                 "type": "technology"
               },
               {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
                 "name": "Jest",
                 "type": "technology"
               },
@@ -99,7 +111,23 @@
                 "type": "technology"
               },
               {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "Splunk",
+                "type": "technology"
+              },
+              {
                 "name": "Stencil.js",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
                 "type": "technology"
               },
               {
