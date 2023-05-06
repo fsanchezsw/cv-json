@@ -267,10 +267,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -371,6 +373,7 @@
         "finishDate": "2020-03-01",
         "institution": {
           "name": "Pluralsight",
+          "description": "",
           "URL": "https://www.pluralsight.com/",
           "image": {
             "alt": "1280px-Pluralsight_Logo.svg.png",
@@ -392,6 +395,7 @@
         "finishDate": "2020-03-01",
         "institution": {
           "name": "Pluralsight",
+          "description": "",
           "URL": "https://www.pluralsight.com/",
           "image": {
             "alt": "1280px-Pluralsight_Logo.svg.png",
@@ -413,6 +417,7 @@
         "finishDate": "2020-03-01",
         "institution": {
           "name": "Pluralsight",
+          "description": "",
           "URL": "https://www.pluralsight.com/",
           "image": {
             "alt": "1280px-Pluralsight_Logo.svg.png",
@@ -478,6 +483,7 @@
         "Full-stack Developer",
         "Tech Lead"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
