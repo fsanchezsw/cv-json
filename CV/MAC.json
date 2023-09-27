@@ -11,25 +11,16 @@
       "title": "Software engineer learning about software project management",
       "description": "Software engineer learning about project management and leadership and focusing on web engineering with continuous integration (especially on the front-end side), but also always attracted by object-oriented programming and its patterns. Perfectionist, organized, structured and lover of good code. Always willing to learn new knowledge of all kinds. Great co-worker, always prioritizing the collective result over the individual, carrying out standards, tasks planning and division in smaller assignments to always reach the goal.",
       "avatar": {
-        "alt": "IMG_20220319_123843_473.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/568919fd-a5eb-4248-9a19-148353e08e98_img_20220319_123843_.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/568919fd-a5eb-4248-9a19-148353e08e98_img_20220319_123843_.jpg",
+        "alt": "IMG_20220319_123843_473.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
         "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/fsanchezsw"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/fsanchez14"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Love reading sci-fi & fantasy books",
@@ -129,8 +120,8 @@
         "organization": {
           "name": "InnoIT Consulting",
           "image": {
-            "alt": "600_492871809.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/06/088fe953-6b6c-4825-b1d9-ff25deadad6d_600_492871809.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/06/088fe953-6b6c-4825-b1d9-ff25deadad6d_600_492871809.jpeg",
+            "alt": "600_492871809.jpeg"
           },
           "URL": "https://es.linkedin.com/company/innoit-consulting"
         },
@@ -216,8 +207,8 @@
         "organization": {
           "name": "InnoIT Consulting",
           "image": {
-            "alt": "600_492871809.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/06/d356ef42-4bfe-4794-a63d-b5e75387134f_600_492871809.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/06/d356ef42-4bfe-4794-a63d-b5e75387134f_600_492871809.jpeg",
+            "alt": "600_492871809.jpeg"
           },
           "URL": "https://es.linkedin.com/company/innoit-consulting"
         },
@@ -292,8 +283,8 @@
         "organization": {
           "name": "Accelya Group",
           "image": {
-            "alt": "1630422221667.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/cea36504-f369-42c2-9395-edd97d4972fd_1630422221667.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/cea36504-f369-42c2-9395-edd97d4972fd_1630422221667.jpg",
+            "alt": "1630422221667.jpg"
           },
           "URL": "https://w3.accelya.com/"
         },
@@ -348,8 +339,8 @@
         "organization": {
           "name": "Sombradoble",
           "image": {
-            "alt": "1519875553164.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/686fd014-0382-4c2f-ac16-b85149b99dab_1519875553164.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/686fd014-0382-4c2f-ac16-b85149b99dab_1519875553164.jpg",
+            "alt": "1519875553164.jpg"
           },
           "URL": "https://www.sombradoble.es/en/home/"
         },
@@ -400,8 +391,8 @@
         "organization": {
           "name": "Sombradoble",
           "image": {
-            "alt": "1519875553164.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/b7fe1ad0-c4ab-4787-bc8f-594debfddb29_1519875553164.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/b7fe1ad0-c4ab-4787-bc8f-594debfddb29_1519875553164.jpg",
+            "alt": "1519875553164.jpg"
           },
           "URL": "https://www.sombradoble.es/en/home/"
         },
@@ -454,8 +445,8 @@
         "details": {
           "name": "iWin Role Model",
           "image": {
-            "alt": "DOC-20230308-WA0009.-1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/06/3015a7d5-4f7a-4eda-bbd6-4d40e0406b45_doc-20230308-wa0009.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/06/3015a7d5-4f7a-4eda-bbd6-4d40e0406b45_doc-20230308-wa0009.png",
+            "alt": "DOC-20230308-WA0009.-1.png"
           }
         },
         "type": "achievement",
@@ -469,52 +460,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Storybook",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ES6",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Splunk",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
+          "name": "Angular2+",
           "type": "technology"
         }
       },
@@ -526,25 +483,67 @@
       },
       {
         "skill": {
-          "name": "Jenkins",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "CSS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Kotlin",
+          "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "ES6",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jasmine",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
           "type": "technology"
         }
       },
@@ -562,37 +561,19 @@
       },
       {
         "skill": {
-          "name": "Stencil.js",
+          "name": "Kotlin",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Webpack",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Angular2+",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -604,13 +585,25 @@
       },
       {
         "skill": {
-          "name": "Jasmine",
+          "name": "Splunk",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Jest",
+          "name": "Stencil.js",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Storybook",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       },
@@ -622,62 +615,26 @@
       },
       {
         "skill": {
-          "name": "Kubernetes",
+          "name": "Webpack",
           "type": "technology"
         }
       }
     ],
     "studies": [
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Master's degree, Software Project Management",
-        "startDate": "2021-10-01",
-        "institution": {
-          "name": "Universidad Politécnica de Madrid",
-          "description": "- Cost and Time Management of a Software Project\n- Quality and Risk Management of a Software Project\n- HR Management and Team Management\n- User Experience Management (Software Usability)\n- Project Management and Development with Agile Methods",
-          "URL": "https://www.upm.es/",
-          "image": {
-            "alt": "1519940485263.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/5f24e711-7199-479f-8005-b4c379af52a8_1519940485263.jpg"
-          }
-        }
-      },
-      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": " RxJS In Angular: Reactive Development",
         "startDate": "2020-03-01",
-        "finishDate": "2020-03-01",
         "institution": {
           "name": "Pluralsight",
           "URL": "https://www.pluralsight.com/",
           "image": {
-            "alt": "1280px-Pluralsight_Logo.svg.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/38423957-2d47-4f08-b560-da7927d044f1_1280px-pluralsight_l.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/38423957-2d47-4f08-b560-da7927d044f1_1280px-pluralsight_l.png",
+            "alt": "1280px-Pluralsight_Logo.svg.png"
           }
         },
-        "linkedCompetences": [
-          {
-            "name": "Angular2+",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Angular Routing",
-        "startDate": "2020-03-01",
         "finishDate": "2020-03-01",
-        "institution": {
-          "name": "Pluralsight",
-          "URL": "https://www.pluralsight.com/",
-          "image": {
-            "alt": "1280px-Pluralsight_Logo.svg.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/5ca8d19d-48bc-4291-9015-23563c7588a9_1280px-pluralsight_l.png"
-          }
-        },
         "linkedCompetences": [
           {
             "name": "Angular2+",
@@ -690,15 +647,36 @@
         "degreeAchieved": true,
         "name": "Angular Reactive Forms",
         "startDate": "2020-03-01",
-        "finishDate": "2020-03-01",
         "institution": {
           "name": "Pluralsight",
           "URL": "https://www.pluralsight.com/",
           "image": {
-            "alt": "1280px-Pluralsight_Logo.svg.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/891662ec-2afe-4469-9091-35eb7afc4577_1280px-pluralsight_l.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/891662ec-2afe-4469-9091-35eb7afc4577_1280px-pluralsight_l.png",
+            "alt": "1280px-Pluralsight_Logo.svg.png"
           }
         },
+        "finishDate": "2020-03-01",
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Angular Routing",
+        "startDate": "2020-03-01",
+        "institution": {
+          "name": "Pluralsight",
+          "URL": "https://www.pluralsight.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/5ca8d19d-48bc-4291-9015-23563c7588a9_1280px-pluralsight_l.png",
+            "alt": "1280px-Pluralsight_Logo.svg.png"
+          }
+        },
+        "finishDate": "2020-03-01",
         "linkedCompetences": [
           {
             "name": "Angular2+",
@@ -711,15 +689,50 @@
         "degreeAchieved": true,
         "name": "Engineer's degree, Computer Software Engineering",
         "startDate": "2014-10-01",
-        "finishDate": "2019-12-01",
         "institution": {
           "name": "Universidad de Málaga",
           "description": "General knowledge:\n- Mathematical knowledge applied to computer science (series, calculus, algebra, discrete mathematics, automata theory, etc.).\n- Fundamentals of programming (mainly object-oriented), general concepts, analysis and design of algorithms, data structures and functional programming.\nProfessional knowledge:\n- Web engineering, requirements analysis and specification, data design and modelling, software maintenance and testing, data or information management as well as database management.\n- Software security, networks and distributed systems (more specifically wireless networks).",
           "URL": "https://www.uma.es/",
           "image": {
-            "alt": "1646996711291.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/7c77bfbc-904f-42f6-9605-8de313a05e1d_1646996711291.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/7c77bfbc-904f-42f6-9605-8de313a05e1d_1646996711291.jpg",
+            "alt": "1646996711291.jpg"
           }
+        },
+        "finishDate": "2019-12-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Master's degree, Software Project Management",
+        "startDate": "2021-10-01",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid",
+          "description": "- Cost and Time Management of a Software Project\n- Quality and Risk Management of a Software Project\n- HR Management and Team Management\n- User Experience Management (Software Usability)\n- Project Management and Development with Agile Methods",
+          "URL": "https://www.upm.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/5f24e711-7199-479f-8005-b4c379af52a8_1519940485263.jpg",
+            "alt": "1519940485263.jpg"
+          }
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Leadership skills",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
         }
       }
     ]
@@ -728,8 +741,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/fsanchez14"
+          "URL": "https://www.linkedin.com/in/fsanchez14",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/fsanchezsw",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "thegodpe@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "654051410",
+          "countryCode": "+34"
         }
       ]
     },
@@ -761,6 +787,59 @@
         "Full-stack Developer",
         "Tech Lead"
       ]
-    }
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "Jenkins",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
+        "type": "technology"
+      },
+      {
+        "name": "Stencil.js",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "I would like to work in a company where I am offered a clear career plan from the start, and in a position that provides a continuous technological or mathematical challenge in my day-to-day life, and additionally where I am surrounded by an agile environment and expert colleagues to fully develop my skills.\nRecently I realized I feel motivated when I have some leadership responsibilities as well as people who I can learn from.",
+    "goodPractices": "Continuous integration, development and testing; TDD, SOLID & KISS principles, design first, Clean Code, functional programming, Agile methodologies, documenting, simple and consistent code...",
+    "bookmarks": [
+      {
+        "name": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/06/c4d468d0-b353-46d8-987d-9e471d7ce180_41-sn-mzwkl.jpg"
+      },
+      {
+        "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/06/6b1a7214-8345-467d-a76b-6722beeab62d_41xshlntztl.jpg"
+      },
+      {
+        "name": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/06/4982a734-8258-4b41-926f-1bb7296cf131_51ws36aa2bl.jpg"
+      },
+      {
+        "name": "Refactoring: Improving the Design of Existing Code",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/06/e2731f2a-70b7-42c5-b61f-aa84e42f64c6_81ezcjtxfkl.jpg"
+      },
+      {
+        "name": "The Clean Coder: A Code of Conduct for Professional Programmers",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/06/57e482df-a2c0-44a8-b41f-6508bdbcc86a_51uo-kv5dl.jpg"
+      },
+      {
+        "name": "The Pragmatic Programmer: Your journey to mastery",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/06/05786868-4703-49fe-8ac5-dd578b4bf959_71f743sopol.jpg"
+      }
+    ]
   }
 }
