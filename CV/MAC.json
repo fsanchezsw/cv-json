@@ -712,7 +712,7 @@
       },
       {
         "studyType": "officialDegree",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Master's degree, Software Project Management",
         "startDate": "2021-10-01",
         "institution": {
@@ -723,7 +723,8 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/5f24e711-7199-479f-8005-b4c379af52a8_1519940485263.jpg",
             "alt": "1519940485263.jpg"
           }
-        }
+        },
+        "finishDate": "2023-07-01"
       }
     ],
     "softSkills": [
@@ -807,11 +808,11 @@
         "type": "technology"
       },
       {
-        "name": "Jenkins",
+        "name": "JavaScript",
         "type": "technology"
       },
       {
-        "name": "Kubernetes",
+        "name": "Jenkins",
         "type": "technology"
       },
       {
