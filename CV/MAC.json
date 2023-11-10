@@ -112,6 +112,16 @@
           }
         ]
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/fsanchez14"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/fsanchezsw"
+      }
     ]
   },
   "experience": {
@@ -788,7 +798,7 @@
         "Tech Lead"
       ]
     },
-    "status": "openToOffers"
+    "status": "searchingActively"
   },
   "manfredSpecificData": {
     "mainStackTechs": [
