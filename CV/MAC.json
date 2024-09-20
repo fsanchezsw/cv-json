@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -471,10 +471,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -505,12 +507,6 @@
       },
       {
         "skill": {
-          "name": "ES6",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Git",
           "type": "technology"
         }
@@ -529,13 +525,13 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Jasmine",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Jasmine",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -620,6 +616,12 @@
       {
         "skill": {
           "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WebComponents",
           "type": "technology"
         }
       },
@@ -762,12 +764,6 @@
       ],
       "contactMails": [
         "thegodpe@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "654051410",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -820,7 +816,7 @@
         "type": "technology"
       },
       {
-        "name": "TypeScript",
+        "name": "WebComponents",
         "type": "technology"
       }
     ],
